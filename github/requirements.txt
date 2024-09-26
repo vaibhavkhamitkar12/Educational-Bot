@@ -1,0 +1,9 @@
+streamlit
+langchain
+sentence-transformers
+pinecone-client
+PyPDF2
+pydantic
+langgraph
+os
+langchain_groq
